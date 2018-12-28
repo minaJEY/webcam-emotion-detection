@@ -1,2 +1,3 @@
 # webcam-emotion-detection
-This is a student project
+This is a student project based on Facial Expression Recognition :)
+
